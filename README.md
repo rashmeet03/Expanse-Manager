@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 <div align="center">
@@ -112,3 +113,6 @@ $ npm install (to install server-side dependencies)
 
 
 
+=======
+# Expanse-Manager
+>>>>>>> a5b6437eea689b9cea82eaa56227ba2a0762b2af
